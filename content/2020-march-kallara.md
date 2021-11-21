@@ -12,4 +12,9 @@ sessions:
     - title: 1C Saturday afternoon - Discussion
       audio: https://archive.org/download/5c-linda-clair-kallara-mar-2020/2020%20March%20Kallara/1c-linda-clair-kallara-mar-2020.mp3
       transcript: 
+    - title: 2A Sunday morning - guided meditation
+      audio:
+      transcript:
+      
+
 ---
