@@ -1,4 +1,4 @@
-Basildon Skeleton
-=================
+Simple Meditation Resources
+===========================
 
-See https://samwilson.github.io/basildon-skeleton/ for the deployed site.
+https://lindaclairaudios.github.io/
