@@ -1,13 +1,10 @@
 ----
 template: index
-title: Basildon Skeleton Site
+title: Simple Mediation Resources
 ----
 
-This is a base-bones demonstration of [Basildon](https://basildon.netlify.app/), a static site generator.
+![Photo of Linda](linda.jpg)
 
-* Deployed site: [samwilson.github.io/basildon-skeleton](https://samwilson.github.io/basildon-skeleton/)
-* Source code: [https://github.com/samwilson/basildon-skeleton](https://github.com/samwilson/basildon-skeleton/)
+Linda Clair Recordings
 
-Create a new project with the following command:
-
-    composer create-project samwilson/basildon-skeleton path/to/new-project
+Audio recordings and transcripts from meditation retreats.

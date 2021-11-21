@@ -1,0 +1,17 @@
+{% extends "index.html.twig" %}
+
+{% block main %}
+
+    {% for session in page.metadata.sessions %}
+        <h3>
+            {{session.title}}
+            <small><a href="{{session.transcript}}">Transcript</a></small>
+        </h3>
+        <figure>
+            <audio controls src="{{session.audio}}">
+                Your browser does not support the audio player, sorry!
+            </audio>
+        </figure> 
+    {% endfor %}
+
+{% endblock %}
