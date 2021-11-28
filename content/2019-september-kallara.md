@@ -23,7 +23,7 @@ sessions:
       transcript:
     - title: 3A Monday morning – guided meditation
       audio:
-      transcript;
+      transcript:
     - title: 3B Monday morning - discussion
       audio:
       transcript:
@@ -56,7 +56,7 @@ sessions:
       transcript:
     - title: 6C Thursday afternoon - discussion
       audio:
-      trancript:
+      transcript:
     - title: 7A Friday morning - guided meditation
       audio:
       transcript:
