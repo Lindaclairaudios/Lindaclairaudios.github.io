@@ -62,7 +62,7 @@ sessions:
       transcript:
     - title: 6C Thursday afternoon - discussion
       audio:
-      trancript:
+      transcript:
     - title: 7A Friday morning - guided meditation
       audio:
       transcript:
