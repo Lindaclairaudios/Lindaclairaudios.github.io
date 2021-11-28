@@ -13,8 +13,8 @@ sessions:
       audio: 
       transcript:
     - title: 2B Sunday morning - 2nd guided meditation
-      audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/1a-linda-clair-kallara-sep-2019.mp3
-      transcript: https://archive.org/download...
+      audio:
+      transcript: 
     - title: 2C Sunday morning - discussion
       audio:
       transcript:
