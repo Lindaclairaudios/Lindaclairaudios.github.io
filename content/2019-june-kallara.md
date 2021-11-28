@@ -1,7 +1,7 @@
 ---
 template: retreat
-title: 2019 September Kallara
-date: 2019-09-01
+title: 2019 June Kallara
+date: 2019-06-01
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: 
