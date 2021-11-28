@@ -69,6 +69,8 @@ sessions:
     - title: 8A Saturday morning - guided meditation
       audio:
       transcript:
-    - title: 8B Saturday morning - discussion  
+    - title: 8B Saturday morning - discussion
+      audio:
+      transcript:
     
 ---
