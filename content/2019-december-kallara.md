@@ -1,7 +1,7 @@
 ---
 template: retreat
-title: 2021 July Kallara
-date: 2021-07-01
+title: 2019 December Kallara
+date: 2019-12-01
 sessions:
     - title: 2A Sunday morning - guided meditation
       audio: 
