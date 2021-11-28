@@ -52,7 +52,7 @@ sessions:
       audio:
       transcript:
     - title: 6B Thursday morning - discussion
-      audio:
+      audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/1a-linda-clair-kallara-sep-2019.mp3
       transcript:
     - title: 6C Thursday afternoon - discussion
       audio:
