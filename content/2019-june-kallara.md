@@ -18,7 +18,7 @@ sessions:
     - title: 2A Sunday morning - guided meditation
       audio: 
       transcript:
-    - title: 2B Sunday morning - 2nd guided meditation
+    - title: 2B Sunday morning - guided meditation
       audio:
       transcript: 
     - title: 2C Sunday morning - discussion
