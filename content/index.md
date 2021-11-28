@@ -1,6 +1,6 @@
 ----
 template: index
-title: Simple Mediation Resources
+title: Simple Meditation Resources
 ----
 
 Linda Clair Recordings
