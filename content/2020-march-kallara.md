@@ -47,7 +47,7 @@ sessions:
       transcript:
     - title: 5C Wednesday afternoon - discussion
       audio:
-      transcription:
+      transcript:
     - title: 6A Thursday morning - guided meditation
       audio: 
       transcript:
