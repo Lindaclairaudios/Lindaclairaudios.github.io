@@ -63,23 +63,5 @@ sessions:
     - title: 6B Thursday morning - discussion
       audio:
       transcript:
-    - title: 6C Thursday afternoon - discussion
-      audio:
-      transcript:
-    - title: 7A Friday morning - guided meditation
-      audio:
-      transcript:
-    - title: 7B Friday morning - discussion
-      audio:
-      transcript:
-    - title: 7C Friday afternoon - discussion
-      audio:
-      transcript:
-    - title: 8A Saturday morning - guided meditation
-      audio:
-      transcript:
-    - title: 8B Saturday morning - discussion
-      audio:
-      transcript:
       
 ---
