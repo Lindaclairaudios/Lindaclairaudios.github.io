@@ -6,9 +6,15 @@ sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: 
       transcript: 
-    - title: 1B Saturday afternoon - discussion
+    - title: 1B Saturday morning - guided meditation
       audio: 
-      transcript: 
+      transcript:
+    - title: 1C Saturday afternoon - guided meditation
+      audio:
+      transcript:
+    - title: 1D Saturday afternoon - discussion
+      audio:
+      transcript:
     - title: 2A Sunday morning - guided meditation
       audio: 
       transcript:
