@@ -48,17 +48,20 @@ sessions:
     - title: 5A Wednesday morning - guided meditation
       audio:
       transcript:
-    - title: 5B Wednesday morning - discussion
+    - title: 5B Wednesday morning - guided meditation
       audio:
       transcript:
-    - title: 5C Wednesday afternoon - discussion
+    - title: 5C Wednesday morning - discussion
+      audio:
+      transcript:
+    - title: 5D Wednesday afternoon - discussion
       audio:
       transcript:
     - title: 6A Thursday morning - guided meditation
       audio:
       transcript:
     - title: 6B Thursday morning - discussion
-      audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/1a-linda-clair-kallara-sep-2019.mp3
+      audio:
       transcript:
     - title: 6C Thursday afternoon - discussion
       audio:
