@@ -15,17 +15,17 @@
       <div class="px-4 py-5 my-5 text-center">
         <h1 class="display-5 fw-bold">{{page.metadata.title}}</h1>
         <div class="col-lg-4 offset-lg-4"><img src="linda.jpg" class="img-fluid" /></div>
-        <div class="col-lg-6 mx-auto">
-          <div class="lead mb-4">
+        <div class="mx-auto">
+          <div class="lead mb-4 display-5">
             {{page.body|md2html|raw}}
           </div>
         </div>
       </div>
 
       <article class="mb-lg-5">
-        <h2>Index of Recordings</h2>
+        <h2 class="lh-lg">Index of Retreats</h2>
         {% for p in database.query('select * from pages where template="retreat" order by date desc') %}
-          <h3><a href="{{page.link(p.id)}}.html">{{p.title}}</a></h3>
+          <h3 class="lh-lg"><a href="{{page.link(p.id)}}.html">{{p.title}}</a></h3>
         {% endfor %}
       <article>
 
