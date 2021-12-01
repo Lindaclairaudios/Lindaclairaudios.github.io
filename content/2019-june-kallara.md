@@ -5,7 +5,7 @@ date: 2019-06-01
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: 
-      transcript: 
+      transcript: https://archive.org/details/december-2019-kallara
     - title: 1B Saturday morning - guided meditation
       audio: 
       transcript:
