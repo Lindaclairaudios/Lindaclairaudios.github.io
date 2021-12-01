@@ -5,7 +5,7 @@ date: 2019-06-01
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2019%20June%20Kallara/1a-linda-clair-kallara-jun-2019.mp3
-      transcript: https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/1A%20December%202019%20Kallara%20.pdf
+      transcript: 
     - title: 1B Saturday afternoon - guided meditation
       audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2019%20June%20Kallara/1b-linda-clair-kallara-jun-2019.mp3
       transcript: 
