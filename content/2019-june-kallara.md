@@ -5,16 +5,16 @@ date: 2019-06-01
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: 
-      transcript:
+      transcript:https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/1A%20December%202019%20Kallara%20.pdf
     - title: 1B Saturday morning - guided meditation
       audio: 
-      transcript:
+      transcript:https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/1B%20December%202019%20Kallara%20%20.pdf
     - title: 1C Saturday afternoon - guided meditation
       audio:
-      transcript:
+      transcript:https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/2A%20December%202019%20Kallara%20.pdf
     - title: 1D Saturday afternoon - discussion
       audio:
-      transcript:
+      transcript:https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/2B%20December%202019%20Kallara%20.pdf
     - title: 2A Sunday morning - guided meditation
       audio: 
       transcript:
