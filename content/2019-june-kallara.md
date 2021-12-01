@@ -16,7 +16,7 @@ sessions:
       audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2019%20June%20Kallara/2a-linda-clair-kallara-jun-2019.mp3
       transcript:
     - title: 2B Sunday morning - discussion
-      audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2019%20June%20Kallara/2c-linda-clair-kallara-jun-2019.mp3
+      audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2c-linda-clair-kallara-jun-2019.mp3
       transcript: 
     - title: 2C Sunday afternoon - discussion
       audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2019%20June%20Kallara/2d-linda-clair-kallara-jun-2019.mp3
