@@ -1,4 +1,4 @@
 Simple Meditation Resources
 ===========================
 
-https://lindaclairaudios.github.io/
+https://simplemeditationresources.net
