@@ -53,9 +53,9 @@ sessions:
       transcript: https://archive.org/download/march-2020-kallara/March%202020%20PDF%20trans/6A%20March%202020%20Kallara.pdf
     - title: 6B Thursday morning - discussion
       audio: https://archive.org/download/5c-linda-clair-kallara-mar-2020/2020%20March%20Kallara/6b-linda-clair-kallara-mar-2020.mp3
-      transcript:
+      transcript: https://archive.org/download/march-2020-kallara/March%202020%20PDF%20trans/6B%20March%202020%20Kallara.pdf
     - title: 6C Thursday afternoon - discussion
       audio: https://archive.org/download/5c-linda-clair-kallara-mar-2020/2020%20March%20Kallara/6c-linda-clair-kallara-mar-2020.mp3
-      transcript:
+      transcript: https://archive.org/download/march-2020-kallara/March%202020%20PDF%20trans/6C%20March%202020%20Kallara.pdf
    
 ---
