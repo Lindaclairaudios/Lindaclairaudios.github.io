@@ -5,16 +5,16 @@ date: 2019-09-01
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/1a-linda-clair-kallara-sep-2019.mp3
-      transcript: 
+      transcript: https://archive.org/download/september-2019-kallara/2019%20September%20PDF%20trans/1A%20September%202019%20Kallara.pdf
     - title: 1B Saturday afternoon - discussion
       audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/1b-linda-clair-kallara-sep-2019.mp3
-      transcript: 
+      transcript: https://archive.org/download/september-2019-kallara/2019%20September%20PDF%20trans/1B%20September%202019%20Kallara%20.pdf
     - title: 2A Sunday morning - guided meditation
       audio:  https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/2a-linda-clair-kallara-sep-2019.mp3
-      transcript:
+      transcript: https://archive.org/download/september-2019-kallara/2019%20September%20PDF%20trans/2A%20September%202019%20Kallara.pdf
     - title: 2B Sunday morning - 2nd guided meditation
       audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/2b-linda-clair-kallara-sep-2019.mp3
-      transcript: 
+      transcript: https://archive.org/download/september-2019-kallara/2019%20September%20PDF%20trans/2B%20September%202019%20Kallara.pdf
     - title: 2C Sunday morning - discussion
       audio: https://archive.org/download/6b-linda-clair-kallara-sep-2019/2019%20September%20Kallara%20/2c-linda-clair-kallara-sep-2019.mp3
       transcript:
