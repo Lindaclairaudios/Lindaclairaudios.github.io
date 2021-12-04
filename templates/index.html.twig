@@ -5,25 +5,37 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <title>{{page.metadata.title}}</title>
+    <title>
+      {{site.title}}
+      {% if page.metadata.title is defined %}
+        &ndash; {{page.metadata.title}}
+      {% endif %}
+    </title>
   </head>
   <body>
 
   <div class="container">
     {% block main %}
 
-      <div class="px-4 py-5 my-5 text-center">
-        <h1 class="display-5 fw-bold">{{page.metadata.title}}</h1>
+      <div class="text-center">
+        <h1 class="display-5 fw-bold">{{site.title}}</h1>
         <div class="col-lg-4 offset-lg-4"><img src="linda.jpg" class="img-fluid" /></div>
         <div class="mx-auto">
-          <div class="lead mb-4 display-5">
-            {{page.body|md2html|raw}}
-          </div>
+          <p class="lead">
+            Library of audio recordings and transcripts from meditation retreats with Linda Clair.
+          <p>
+          <p class="">
+            For more information go to <a href="https://www.simplemeditation.net/">Simple Meditation</a>.
+          </p>
         </div>
       </div>
 
-      <article class="mb-lg-5">
+      <article class="mb-5 col-md-4 offset-md-4">
         <h2 class="lh-lg" id="retreats">Index of Retreats</h2>
+        <p>
+          New and older recordings will be added as they are edited.
+        </p>
+        <p>
         {% for p in database.query('select * from pages where template="retreat" order by date desc') %}
           <h3 class="lh-lg"><a href="{{page.link(p.id)}}.html">{{p.title}}</a></h3>
         {% endfor %}
