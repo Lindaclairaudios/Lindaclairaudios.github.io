@@ -3,7 +3,7 @@
 {% block main %}
 
     <p class="fs-3">
-        <a href="{{page.link('index')}}.html">Back to index</a>
+        <a href="{{page.link('index')}}.html#retreats">Back to index</a>
     </p>
 
     <div class="px-4 py-5 my-5 text-center">
@@ -13,10 +13,16 @@
     {% for session in page.metadata.sessions %}
         <h3>
             {{session.title}}
-            <small><a href="{{session.transcript}}">Transcript</a></small>
+            <small>
+                {% if session.transcript %}
+                    <a href="{{session.transcript}}" target="_blank">Transcript</a>
+                {% else %}
+                    <span class="text-muted">(No transcript)</span>
+                {% endif %}
+            </small>
         </h3>
         <figure>
-            <audio controls src="{{session.audio}}">
+            <audio controls src="{{session.audio}}" preload="none">
                 Your browser does not support the audio player, sorry!
             </audio>
         </figure> 

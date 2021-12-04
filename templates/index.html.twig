@@ -23,7 +23,7 @@
       </div>
 
       <article class="mb-lg-5">
-        <h2 class="lh-lg">Index of Retreats</h2>
+        <h2 class="lh-lg" id="retreats">Index of Retreats</h2>
         {% for p in database.query('select * from pages where template="retreat" order by date desc') %}
           <h3 class="lh-lg"><a href="{{page.link(p.id)}}.html">{{p.title}}</a></h3>
         {% endfor %}
