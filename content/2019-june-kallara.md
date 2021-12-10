@@ -2,6 +2,7 @@
 template: retreat
 title: 2019 June Kallara
 date: 2019-06-01
+comments: 
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: https://archive.org/download/5d-linda-clair-kallara-jun-2019/2019%20June%20Kallara/1a-linda-clair-kallara-jun-2019.mp3

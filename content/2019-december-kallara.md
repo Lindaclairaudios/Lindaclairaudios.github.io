@@ -2,6 +2,7 @@
 template: retreat
 title: 2019 December Kallara
 date: 2019-12-01
+comments: 
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: https://archive.org/download/5b-linda-clair-kallara-dec-2019/2019%20December%20Kallara/1a-linda-clair-kallara-dec-2019.mp3

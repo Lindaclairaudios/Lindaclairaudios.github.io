@@ -2,6 +2,7 @@
 template: retreat
 title: 2020 March Kallara
 date: 2020-03-01
+comments: 
 sessions:
     - title: 1A Saturday afternoon - guided meditation
       audio: https://archive.org/download/5c-linda-clair-kallara-mar-2020/2020%20March%20Kallara/1a-linda-clair-kallara-mar-2020.mp3
