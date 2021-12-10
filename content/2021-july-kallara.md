@@ -2,7 +2,7 @@
 template: retreat
 title: 2021 July Kallara
 date: 2021-07-01
-comments: 
+comments: Only four days recorded
 sessions:
     - title: 2A Sunday morning - guided meditation
       audio: https://archive.org/download/july-2-a-2021-sun-am-meditaion-intro/July%202%20A%202021%20Sun%20am%20meditaion%20intro.mp3
