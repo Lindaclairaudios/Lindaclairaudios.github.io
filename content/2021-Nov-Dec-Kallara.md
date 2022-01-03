@@ -21,18 +21,18 @@ sessions:
       audio: https://archive.org/download/2021-dec-kallara/2021%20Dec%20mp3s%20for%20Archive/2021%20Dec%203B%20.mp3
       transcript: https://archive.org/download/december-2021-kallara/2021%20Dec%20PDF%20trans/3B%20December%202021%20Discussion.pdf
     - title: 4A Tuesday morning – discussion
-      audio: 
+      audio: https://archive.org/download/2021-dec-kallara/2021%20Dec%204A.mp3
       transcript:https://archive.org/download/december-2021-kallara/4A%20December%202021%20Discussion.pdf
     - title: 4B Tuesday afternoon – discussion
-      audio:
+      audio:https://archive.org/download/2021-dec-kallara/2021%20Dec%204B%20.mp3
       transcript:https://archive.org/download/december-2021-kallara/4B%20December%202021%20Discussion.pdf
     - title: 5A Wednesday morning – discussion
-      audio:
+      audio:https://archive.org/download/2021-dec-kallara/2021%20Dec%205A%20.mp3
       transcript:https://archive.org/download/december-2021-kallara/5A%20December%202021%20Discussion.pdf
     - title: 5B Wednesday afternoon – discussion
-      audio:
+      audio:https://archive.org/download/2021-dec-kallara/2021%20Dec%205B%20.mp3
       transcript:https://archive.org/download/december-2021-kallara/5B%20December%202021%20Discussion.pdf
     - title: 6A Thursday morning – discussion  
-      audio:
+      audio:https://archive.org/download/2021-dec-kallara/2021%20Dec%206A%20.mp3
       transcript:https://archive.org/download/december-2021-kallara/6A%20December%202021%20Discussion.pdf
 ---
