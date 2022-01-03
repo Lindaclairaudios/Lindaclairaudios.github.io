@@ -2,7 +2,7 @@
 template: retreat
 title: 2021 Nov-Dec Kallara
 date: 2021-12-01
-comments: Editing in progress
+comments: 
 sessions:
    
     - title: 1A Saturday afternoon - discussion
