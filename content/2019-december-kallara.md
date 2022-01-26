@@ -27,7 +27,7 @@ sessions:
       transcript: https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/3B%20December%202019%20Kallara%20.pdf
     - title: 3C Monday morning - discussion  
       audio: https://archive.org/download/5b-linda-clair-kallara-dec-2019/2019%20December%20Kallara/3c-linda-clair-kallara-dec-2019.mp3
-      transcript: https://archive.org/download/december-2019-kallara/3C%20December%202019%20Kallara.pdf
+      transcript: 
     - title: 3D Monday afternoon - discussion
       audio: https://archive.org/download/5b-linda-clair-kallara-dec-2019/2019%20December%20Kallara/3d-linda-clair-kallara-dec-2019.mp3
       transcript: https://archive.org/download/december-2019-kallara/2019%20December%20PDF%20trans/3D%20December%202019%20Kallara.pdf
